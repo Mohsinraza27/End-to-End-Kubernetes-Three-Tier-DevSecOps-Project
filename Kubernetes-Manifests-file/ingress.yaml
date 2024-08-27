@@ -11,7 +11,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: mohsin-raza-devops.great-site.net
+    - host: mohsin-raza-devops
       http:
         paths:
           - path: /api

@@ -11,7 +11,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: mohsin-raza-devops.great-site.net
+    - host: http://new-todo-app.surge.sh/
       http:
         paths:
           - path: /api
